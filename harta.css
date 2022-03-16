@@ -1,0 +1,461 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("img/background.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+html {
+  height: 100%;
+}
+
+img {
+  padding: 0;
+  margin: 0 auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.stickers img:hover {
+  position: relative;
+  /* box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6); */
+  transition: 0.5s ease-in-out;
+  transform: scale(1.5);
+  z-index: 3;
+  cursor: pointer;
+}
+
+.titlupagina img {
+  position: relative;
+  transition: 0.s ease-in-out;
+}
+
+#sticker28 {
+  position: absolute;
+  /* absolute pin! */
+  left: 3.5%;
+  bottom: 5%;
+  width: 18%;
+  height: auto;
+}
+
+#sticker29 {
+  position: absolute;
+  /* absolute pin! */
+  left: 78%;
+  top: 5%;
+  width: 21%;
+  height: auto;
+}
+
+#sticker01 {
+  position: absolute;
+  /* absolute pin! */
+  left: 60.5%;
+  top: 6%;
+  width: 2.5%;
+  height: auto;
+}
+
+#sticker02 {
+  position: absolute;
+  /* absolute pin! */
+  left: 57%;
+  top: 18%;
+  width: 4.2%;
+  height: auto;
+}
+
+#sticker03 {
+  position: absolute;
+  /* absolute pin! */
+  left: 63%;
+  top: 12%;
+  width: 4.5%;
+  height: auto;
+}
+
+#sticker04 {
+  position: absolute;
+  /* absolute pin! */
+  left: 62%;
+  top: 14.5%;
+  width: 2.5%;
+  height: auto;
+}
+
+#sticker05 {
+  position: absolute;
+  /* absolute pin! */
+  left: 35%;
+  top: 64%;
+  width: 4.3%;
+  height: auto;
+}
+
+#sticker06 {
+  position: absolute;
+  /* absolute pin! */
+  left: 46%;
+  top: 42%;
+  width: 2.5%;
+  height: auto;
+}
+
+#sticker07 {
+  position: absolute;
+  /* absolute pin! */
+  left: 59%;
+  top: 28%;
+  width: 3.5%;
+  height: auto;
+}
+
+#sticker08 {
+  position: absolute;
+  /* absolute pin! */
+  left: 58%;
+  top: 36%;
+  width: 3%;
+  height: auto;
+}
+
+#sticker09 {
+  position: absolute;
+  /* absolute pin! */
+  left: 62.5%;
+  top: 43%;
+  width: 3.5%;
+  height: auto;
+}
+
+#sticker10 {
+  position: absolute;
+  /* absolute pin! */
+  left: 68%;
+  top: 36.5%;
+  width: 4%;
+  height: auto;
+}
+
+#sticker11 {
+  position: absolute;
+  /* absolute pin! */
+  left: 66%;
+  top: 47%;
+  width: 2.5%;
+  height: auto;
+}
+
+#sticker12 {
+  position: absolute;
+  /* absolute pin! */
+  left: 47%;
+  top: 80%;
+  width: 6%;
+  height: auto;
+}
+
+#sticker13 {
+  position: absolute;
+  /* absolute pin! */
+  left: 50%;
+  top: 61%;
+  width: 4%;
+  height: auto;
+}
+
+#sticker14 {
+  position: absolute;
+  /* absolute pin! */
+  left: 52%;
+  top: 25.5%;
+  width: 4.2%;
+  height: auto;
+}
+
+#sticker15 {
+  position: absolute;
+  /* absolute pin! */
+  left: 53.5%;
+  top: 33%;
+  width: 2.5%;
+  height: auto;
+}
+
+#sticker16 {
+  position: absolute;
+  /* absolute pin! */
+  left: 30.6%;
+  top: 50.5%;
+  width: 4.3%;
+  height: auto;
+}
+
+#sticker17 {
+  position: absolute;
+  /* absolute pin! */
+  left: 35.4%;
+  top: 43.5%;
+  width: 3.5%;
+  height: auto;
+}
+
+#sticker18 {
+  position: absolute;
+  /* absolute pin! */
+  left: 53.5%;
+  top: 53.3%;
+  width: 2.3%;
+  height: auto;
+}
+
+#sticker19 {
+  position: absolute;
+  /* absolute pin! */
+  left: 50.3%;
+  top: 54%;
+  width: 1.5%;
+  height: auto;
+}
+
+#sticker20 {
+  position: absolute;
+  /* absolute pin! */
+  left: 50.3%;
+  top: 41.5%;
+  width: 2.8%;
+  height: auto;
+}
+
+#sticker21 {
+  position: absolute;
+  /* absolute pin! */
+  left: 57.5%;
+  top: 42%;
+  width: 3%;
+  height: auto;
+}
+
+#sticker22 {
+  position: absolute;
+  /* absolute pin! */
+  left: 36.3%;
+  top: 26%;
+  width: 2%;
+  height: auto;
+}
+
+#sticker23 {
+  position: absolute;
+  /* absolute pin! */
+  left: 31.5%;
+  top: 34%;
+  width: 4.7%;
+  height: auto;
+}
+
+#sticker24 {
+  position: absolute;
+  /* absolute pin! */
+  left: 28%;
+  top: 38%;
+  width: 4.3%;
+  height: auto;
+}
+
+#sticker25 {
+  position: absolute;
+  /* absolute pin! */
+  left: 41%;
+  top: 20%;
+  width: 3%;
+  height: auto;
+}
+
+#sticker26 {
+  position: absolute;
+  /* absolute pin! */
+  left: 45%;
+  top: 23%;
+  width: 2.5%;
+  height: auto;
+}
+
+#sticker27 {
+  position: absolute;
+  /* absolute pin! */
+  left: 46%;
+  top: 16%;
+  width: 2.5%;
+  height: auto;
+}
+
+p {
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+ font-size: 15px;
+ color: rgb(16, 88, 75);
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 30px;
+  color: rgb(9, 119, 119);
+}
+
+.hide {
+  background-color: rgba(255, 255, 255, 0.815);
+  border-radius: 5px;
+  text-align: justify;
+  position: absolute;
+  width: 200px;
+  height: 185px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border: 1px solid #ffffff;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.sticker01-txt {
+  left: 69%;
+  top: 4%;
+}
+
+.sticker02-txt {
+  left: 70%;
+  top: 10%;
+}
+
+.sticker03-txt {
+  left: 70%;
+  top: 7%;
+}
+
+.sticker04-txt {
+  left: 72%;
+  top: 12%;
+}
+
+.sticker05-txt {
+  left: 19%;
+  top: 64%;
+}
+
+.sticker06-txt {
+  left: 16%;
+  top: 51.3%;
+}
+
+.sticker07-txt {
+  left: 72%;
+  top: 12%;
+}
+
+.sticker08-txt {
+  left: 74%;
+  top: 41%;
+}
+
+.sticker09-txt {
+  left: 72.5%;
+  top: 45%;
+}
+
+.sticker10-txt {
+  left: 75%;
+  top: 36.5%;
+}
+
+.sticker11-txt {
+  left: 71%;
+  top: 51%;
+}
+
+.sticker12-txt {
+  left: 58%;
+  top: 76%;
+}
+
+.sticker13-txt {
+  left: 58.2%;
+  top: 69%;
+}
+
+.sticker14-txt {
+  left: 75%;
+  top: 25.5%;
+}
+
+.sticker15-txt {
+  left: 75%;
+  top: 33%;
+}
+
+.sticker16-txt {
+  left: 15%;
+  top: 47%;
+}
+
+.sticker17-txt {
+  left: 15%;
+  top: 46%;
+}
+
+.sticker18-txt {
+  left: 60%;
+  top: 67%;
+}
+
+.sticker19-txt {
+  left: 58.5%;
+  top: 69%;
+}
+
+.sticker20-txt {
+  left: 65%;
+  top: 65%;
+}
+
+.sticker21-txt {
+  left: 65%;
+  top: 62%;
+}
+
+.sticker22-txt {
+  left: 17%;
+  top: 8%;
+}
+
+.sticker23-txt {
+  left: 15%;
+  top: 13%;
+}
+
+.sticker24-txt {
+  left: 12%;
+  top: 34%;
+}
+
+.sticker25-txt {
+  left: 25%;
+  top: 1%;
+}
+
+.sticker26-txt {
+  left: 18%;
+  top: 4%;
+}
+
+.sticker27-txt {
+  left: 29%;
+  top: 2%;
+}
